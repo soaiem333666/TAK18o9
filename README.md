@@ -120,7 +120,7 @@
     <!-- Main Mobile Container -->
     <div class="w-full max-w-sm sm:max-w-md min-h-screen sm:min-h-0 sm:rounded-3xl flex flex-col relative overflow-hidden shadow-xl sm:shadow-2xl bg-white/70 dark:bg-slate-900/70 backdrop-blur-3xl border-0 sm:border border-slate-200/60 dark:border-slate-800/60">
         
-        <!-- Action Buttons (Top Right/Left Overlay) -->
+        <!-- Action Buttons -->
         <div class="absolute top-3 right-3 left-3 z-20 flex justify-between items-center">
             <button id="theme-toggle" onclick="toggleTheme()" class="w-8 h-8 rounded-full glass-panel flex items-center justify-center text-slate-700 dark:text-slate-200 active:scale-90 transition-all shadow-md" title="Đổi giao diện">
                 <i class="fa-solid fa-moon dark:hidden text-xs"></i>
