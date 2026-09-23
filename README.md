@@ -57,7 +57,7 @@
             <!-- Avatar -->
             <div class="relative -mt-16 mb-3 inline-block w-fit">
                 <div class="w-28 h-28 rounded-full border-4 border-white shadow-lg overflow-hidden bg-white">
-                    <img src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=500&q=80" 
+                    <img src="https://scontent.fdad3-8.fna.fbcdn.net/v/t39.30808-6/814999473_2832030020509538_2916820980541575312_n.jpg?stp=dst-jpg_tt6&cstp=mx800x800&ctp=s800x800&_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=b66FVPJ1GuwQ7kNvwFEoIpN&_nc_oc=AdrY5oOGxegWO0NH_lYMTs7G-mEy25pF6lHYG11RQywD75sJ0o7z8cswN2fs9DIj4cY&_nc_zt=23&_nc_ht=scontent.fdad3-8.fna&_nc_gid=ywyp8MN02jYBRUK7qQX77w&_nc_ss=7b289&oh=00_AQIEj48jNvvnPM8VMjPqSsN1m1SJrADF-mM4zr8gyDna7g&oe=6AB91C12" 
                          alt="Trần Anh Khoa Avatar" 
                          class="w-full h-full object-cover">
                 </div>
